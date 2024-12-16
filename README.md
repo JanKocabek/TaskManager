@@ -1,2 +1,3 @@
 # TaskManager
-Java console program to manage tasks
+
+Java console program to manage tasks.
